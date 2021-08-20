@@ -110,7 +110,7 @@ body::before {
 
 <h4><span class="white">↓益子、ひまわり祭りHPへのリンク</span></h4>
 <a href="http://www.town.mashiko.tochigi.jp/page/page003110.html" target="_blank">益子ひまわり祭り</a><br><br>
-<p>Map</p>
+
 
 
 
