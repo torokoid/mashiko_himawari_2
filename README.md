@@ -108,7 +108,9 @@ body::before {
 <a href="20210820_079.JPG" data-lightbox="abc"><img src="20210820_079.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210820_080.JPG" data-lightbox="abc"><img src="20210820_080.JPG" alt="サンプル画像" width="900" /></a>
 
-
+<h4><span class="white">↓益子、ひまわり祭りHPへのリンク</span></h4>
+<a href="http://www.town.mashiko.tochigi.jp/page/page003110.html" target="_blank">益子ひまわり祭り</a><br><br>
+<p>Map</p>
 
 
 
