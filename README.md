@@ -65,6 +65,8 @@ body::before {
 	
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年8月20日(金)栃木県芳賀郡益子町上山、ひまわり祭りにお邪魔しました !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	
+<p align="left"> <img src="QR_mashiko.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <h3><span class="white">JR宇都宮駅から29kmほど南東に行ったところにある、益子ひまわり祭り会場です。</span></h3>
 <a href="20210820_081.png" data-lightbox="abc"><img src="20210820_081.png" alt="サンプル画像" width="900" /></a>
 <a href="20210820_041.JPG" data-lightbox="abc"><img src="20210820_041.JPG" alt="サンプル画像" width="900" /></a>
